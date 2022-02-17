@@ -1,0 +1,16 @@
+{
+	"ID": 1,
+	"Summary": "Missing input field namei 'Date of birth'",
+	"Environment": "All browsers",
+	"Severity": "Minor",
+	"Steps to reproduce":
+		  {
+                    "Step_1": "Open https://www.testsite.com",
+		    "Step_2": "Follow 'New account' link",
+		    "Step_3": "Registration form is open"
+		  },
+	"Actual result": "Missing input field name 'Date of birth'",
+	"Expected result": "The name of the field 'Date of birth' in the  registration form is near the input field",
+	"Attachment": "www.radikal.ru/qwerty.jpg"
+}
+
